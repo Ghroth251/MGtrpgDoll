@@ -1,4 +1,4 @@
-var filename = 'sealdice-js-ext.js'
+var filename = 'MGTrpgDoll'
 
 module.exports = {
   dev: {

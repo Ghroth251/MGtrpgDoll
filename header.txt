@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         模板项目
-// @author       作者名
+// @name         钢神TS重构
+// @author       灰色摇篮
 // @version      1.0.0
-// @description  这是海豹的js扩展模板项目，请自行修改信息
-// @timestamp    1674477074
-// 2023/1/23
+// @description  钢之守护神
+// @timestamp    553859318
+// 2024/7/30
 // @license      MIT
-// @homepageURL  https://github.com/sealdice/sealdice-js-template
+// @homepageURL  https://github.com/Ghroth251/MGtrpgDoll
 // ==/UserScript==
