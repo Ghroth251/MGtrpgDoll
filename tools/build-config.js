@@ -1,4 +1,4 @@
-var filename = 'MGTrpgDoll'
+var filename = 'MGTrpgDoll.js'
 
 module.exports = {
   dev: {

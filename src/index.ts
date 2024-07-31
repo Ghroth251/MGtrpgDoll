@@ -8,7 +8,7 @@ function main() {
     ext = seal.ext.new('test', '木落', '1.0.0');
     seal.ext.register(ext);
   }
-
+  FileSystem.toString
   // 编写指令
   const cmdSeal = seal.ext.newCmdItemInfo();
   cmdSeal.name = 'seal';

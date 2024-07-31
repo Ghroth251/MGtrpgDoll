@@ -15,10 +15,13 @@
     "node": ">=10"
   },
   "dependencies": {
+    "canvas": "^2.10.2",
+    "fs": "^0.0.1-security",
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.12",
+    "@types/node": "^22.0.0",
     "cross-env": "^7.0.3",
     "esbuild": "^0.21.4",
     "fs-extra": "^11.2.0",
